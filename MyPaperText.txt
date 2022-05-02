@@ -1,0 +1,21 @@
+----------------------- Abstract -----------------------
+
+-> 	Since the beginning of human history fake news have always been a thing but whit the current
+devolopment of techonologies the term has became popular among everyone in the world, in particular
+among young genarations.
+
+	Given that, fake news holds a threat since it can manipulate people to do things against 
+their own will, possess the power to destabilize governments. 
+	
+	The BERT model architecture was proposed by Jacob Devlin and his colleagues from Google
+in 2018 and quickly got popular in natural language processing problemns such as fake news
+detections.
+
+----------------------- Introduction -----------------------
+
+->	The rise new techonologies like social medias, online shopping, gaming and others ,
+provided a door with easy acess for spreading fake news. Some well knowed companies seing the 
+internet development arround the globe started investing on diferents as to share news such as
+podcast, online journals, youtube and others social media plataforms. In order to make profit, 
+every news published in internet started to be monetirezed using methods such as putting ads on the post, videos, whatever they published.
+ 
